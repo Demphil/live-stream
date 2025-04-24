@@ -37,7 +37,7 @@
   <script>
     const video = document.getElementById('video');
     const selector = document.getElementById('qualitySelector');
-    const streamURL = "ضع_رابط_m3u8_هنا"; // <- عوّضه برابطك الحقيقي
+    const streamURL = "https://top1-cdnnew.newkso.ru/top1-cdn/R0tcyrMCFm/mono.m3u8"; // <- عوّضه برابطك الحقيقي
 
     if (Hls.isSupported()) {
       const hls = new Hls();
