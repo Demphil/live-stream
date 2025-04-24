@@ -4,6 +4,7 @@
   <meta charset="UTF-8">
   <title>مشاهدة مباشرة</title>
   <script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
+  <script type='text/javascript' src='//pl26330988.profitableratecpm.com/31/36/42/3136423ba8e56051368cedef08742e2e.js'></script>
   <style>
     html, body {
       margin: 0;
